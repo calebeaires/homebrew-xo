@@ -1,5 +1,5 @@
 $pkg     = "github.com/xo/usql"
-$ver     = "v0.7.8"
+$ver     = "v0.8.1"
 $hash    = "d8d07324afe2478068f99b79e35ad5f5c06fa0e0051504cff5bce592ee75c6c2"
 
 $cmdver  = $ver[1..-1]
